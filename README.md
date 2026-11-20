@@ -2,6 +2,8 @@
 
 Rasmni qora fonda yulduzlardek yig'ilib keladigan oq nuqtalarga aylantiruvchi sayt.
 
+**Saytni ochish:** https://nothinggrr77-bit.github.io/nuqtali-portret/
+
 ## Ishga tushirish
 
 `index.html` faylini Chrome yoki Edge'da oching (ikki marta bosish kifoya).
